@@ -1,0 +1,2 @@
+compile with: javac -d . LibraryManagement.java
+run with: java LibraryManagementSystem.LibraryManagement
